@@ -104,3 +104,9 @@ Hint: The London Local Authority has a longer name than "London" so you will nee
 What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
 Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
+
+### Acknowledgments
+
+import assistance were obtained from Katie Starns and Othmane Beyouncef
+
+additional coding assistance gained from anonymous contributions on Stack Overflow
